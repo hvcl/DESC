@@ -1,2 +1,0 @@
-print(rnorm(10))
-
