@@ -1,4 +1,4 @@
-# Dimensionality Explorer for Single-Cell Analysis
+# Dimensionality Comparison System for Single-Cell Analysis using Hull Heatmap
 
 The online demo is available at http://desc.korea.ac.kr.
 
