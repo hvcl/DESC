@@ -1,4 +1,4 @@
-# Dimensionality Comparison System for Single-Cell Analysis using Hull Heatmap
+# Optimal Dimensionality Selection using Hull Heatmaps for Single-Cell Analysis
 
 The online demo is available at http://desc.korea.ac.kr.
 
